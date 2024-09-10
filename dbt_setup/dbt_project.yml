@@ -33,4 +33,5 @@ models:
     example:
       +materialized: table
       # +materialized: table
+      # +materialized: view
     materialized: table
